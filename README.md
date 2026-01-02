@@ -20,6 +20,7 @@ Purpose of this dataset:
 3. Schema and format inspection before full-scale access
 
 ⚠️ Note: This repository contains sample data only. Access to the complete dataset is available separately under appropriate licensing or partnership terms. 
+
 For further details
 Email : vipul.mishra@infobay.ai 
 Website : https://infobay.ai/
