@@ -21,6 +21,6 @@ Purpose of this dataset:
 
 ⚠️ Note: This repository contains sample data only. Access to the complete dataset is available separately under appropriate licensing or partnership terms. 
 
-For further details
+For further details,
 Email : vipul.mishra@infobay.ai 
 Website : https://infobay.ai/
